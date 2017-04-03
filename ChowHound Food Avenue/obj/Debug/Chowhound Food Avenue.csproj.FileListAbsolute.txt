@@ -1,0 +1,167 @@
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Documents\Visual Studio 2012\Projects\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\MiGutierrez\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\ASUS\Desktop\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+G:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+G:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+G:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+G:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+E:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+E:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+E:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+E:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+F:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+F:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+F:\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+F:\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Desktop\New folder (7)\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.SalesReport.resources
+C:\Users\user\Desktop\ChowHound(BillingsystemUI)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\user\Desktop\ChowHound(BillingsystemUI)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\user\Desktop\ChowHound(BillingsystemUI)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.SalesReport.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\MiGutierrez\Desktop\New folder (8)\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.SalesReport.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\marti\Desktop\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.SalesReport.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\MiGutierrez\Downloads\Compressed\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csprojResolveAssemblyReference.cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Billing_System.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.ChangePasswordForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.InventoryForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.Properties.Resources.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.UI.SalesReport.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.SignupForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound_Food_Avenue.LoginForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\WEB PROG FINALS\Chowhound-Food-Avenue-2-2-FINAL\Chowhound-Food-Avenue-2\Chowhound Food Avenue\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.pdb
+C:\Users\MiGutierrez\Downloads\Compressed\ChowHound Food Avenue FINAL\New folder\Chowhound Food Avenue\bin\Debug\Chowhound Food Avenue.exe.config
+C:\Users\MiGutierrez\Downloads\Compressed\ChowHound Food Avenue FINAL\New folder\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.exe
+C:\Users\MiGutierrez\Downloads\Compressed\ChowHound Food Avenue FINAL\New folder\Chowhound Food Avenue\obj\Debug\Chowhound Food Avenue.pdb

@@ -1,0 +1,11 @@
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\bin\Debug\ChowHound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\bin\Debug\ChowHound Food Avenue.pdb
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound_Food_Avenue.Properties.Resources.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound Food Avenue.csproj.GenerateResource.Cache
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound Food Avenue.exe
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound Food Avenue.pdb
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound_Food_Avenue.BillingSystem.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound_Food_Avenue.LoginForm.resources
+C:\Users\Edwin Culla\Desktop\Kim do not delete please\3rd year\C#\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound_Food_Avenue.Inventory.resources
+C:\Users\MiGutierrez\Downloads\Compressed\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound Food Avenue.exe
+C:\Users\MiGutierrez\Downloads\Compressed\ChowHound Food Avenue\ChowHound Food Avenue\obj\x86\Debug\ChowHound Food Avenue.pdb
